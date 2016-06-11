@@ -1,10 +1,3 @@
---[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-
-     ❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-   ➥ CHANNEL ◐ @INSTAOFFICIAL
-    ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-]] 
 do
 function run(msg, matches)
 if  msg.media and not is_momod(msg)  then
