@@ -7,8 +7,8 @@ do
 local function run(msg,matches)
 
 local reply_id = msg['id']
-if is_momod(msg) and matches[1]== 'sphelp' then
-  local alnaze = [[ ❍____↝◐sphelp◐↜____❍
+if is_momod(msg) and matches[1]== 'allhelp' then
+  local alnaze = [[
 ___🔕🔒___🚨___🔔🔓___
 جميع الاوامر تعمل بدون الاشارات [!#/]
 ___🔕🔒___🚨___🔔🔓___
