@@ -1,8 +1,5 @@
 --[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-
-     ❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-   ➥ CHANNEL ◐ @INSTAOFFICIAL
+joker
     ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
 ]] 
 local function save_value(msg, name, value)
