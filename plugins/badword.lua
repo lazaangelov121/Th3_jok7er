@@ -1,8 +1,3 @@
---[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-    ➥ CHANNEL ◐ @INSTAOFFICIAL
-]] 
 local function addword(msg, name) 
     local hash = 'chat:'..msg.to.id..':badword' 
     redis:hset(hash, name, 'newword') 
