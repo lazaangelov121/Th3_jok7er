@@ -1,8 +1,5 @@
 --[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-
-     ❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-   ➥ CHANNEL ◐ @INSTAOFFICIAL
+joker
     ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
 ]] 
 --Begin supergrpup.lua 
