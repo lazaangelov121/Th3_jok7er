@@ -1,12 +1,9 @@
 --[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-
-     ❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-   ➥ CHANNEL ◐ @INSTAOFFICIAL
+joker
     ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
 ]] 
 local function run(msg,matches)
-if is_sudo(msg) and matches[1]== "dvhelp" then
+if is_sudo(msg) and matches[1]== "devhelp" then
 local text = [[ _______________________    
 Sudo Command / اوامر مطورين
 _________________________
@@ -40,7 +37,7 @@ end
  
 return {
 patterns ={
-  "^(dvhelp)$"
+  "^(devhelp)$"
 },
 run = run
 }
