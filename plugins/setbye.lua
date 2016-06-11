@@ -1,8 +1,5 @@
 --[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-
-     ❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-   ➥ CHANNEL ◐ @INSTAOFFICIAL
+joker
     ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
 ]] 
 local function run(msg, matches, callback, extra)
