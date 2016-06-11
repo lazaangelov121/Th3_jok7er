@@ -1,8 +1,3 @@
---[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-    ➥ CHANNEL ◐ @INSTAOFFICIAL
-]] 
 --Begin msg_checks.lua
 --Begin pre_process function
 local function pre_process(msg)
