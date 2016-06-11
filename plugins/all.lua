@@ -1,8 +1,3 @@
---[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-    ➥ CHANNEL ◐ @INSTAOFFICIAL
-]] 
 do
 local function get_msgs_user_chat(user_id, chat_id)
   local user_info = {}
