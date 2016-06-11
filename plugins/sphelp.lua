@@ -1,8 +1,5 @@
 --[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-
-     ❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-   ➥ CHANNEL ◐ @INSTAOFFICIAL
+joker
     ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
 ]] 
 do
@@ -42,7 +39,7 @@ ___🔕🔒___🚨___🔔🔓___
 🔰 silent video : كتم الفيديو
 🔰 unsilent video : فتح كتم الفيديو 
 🔰 silent audio : كتم البصمات
- 🔰 unsilent audio : فتح البصمات 
+🔰 unsilent audio : فتح البصمات 
 🔰 silent all : كتم الكل 
 🔰 unsilent all :  فتح كتم الكل 
 📋 muteslist : معلومات كتم 
@@ -88,14 +85,14 @@ end
 
 local reply_id = msg['id']
 if not is_momod(msg) then
-local alnaz = "للمشرفين فقط 🖕🏿😎"
+local alnaz = "للمشرفين فقط "
 reply_msg(reply_id, alnaze, ok_cb, false)
 end
 
 end
 return {
 patterns ={
-  "^(sphelp)$",
+  "^(allhelp)$",
 },
 run = run
 }
