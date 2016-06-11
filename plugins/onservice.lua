@@ -1,10 +1,3 @@
---[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-
-     ❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-   ➥ CHANNEL ◐ @INSTAOFFICIAL
-    ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-]] 
 do
 -- Will leave the group if be added
 local function run(msg, matches)
