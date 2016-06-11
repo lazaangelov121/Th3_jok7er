@@ -1,26 +1,19 @@
---[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-
-     ❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-   ➥ CHANNEL ◐ @INSTAOFFICIAL
-    ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-]] 
 do
 
 local function run(msg,matches)
 
 local reply_id = msg['id']
 if is_momod(msg) and matches[1]== 'help' then
-  local alnaze = [[ <____↝◐helplist◐↜____>
+  local alnaze =[[
 🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻
 جميع الاوامر تعمل بدون الاشارات [!#/]❌
 🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻
 
-■ sphelp : اوامر الرئيسية
+■ allhelp : اوامر الرئيسية
 
-■ spban : اوامر طرد حضر + كتم
+■ kickset : اوامر طرد حضر + كتم
 
-■ dvhelp : اوامر المطورين
+■ helpdev : اوامر المطورين
 
 ⭐ 🔻🔺🔻🔺🔻🔺للتوصيل🔻🔺🔻🔺🔻 ⭐
 🚨 Dev - : @devss_bot  ◐ ♺ ]]
