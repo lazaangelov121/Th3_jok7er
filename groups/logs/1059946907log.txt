@@ -1,0 +1,46 @@
+[ Fri Jun 10 15:16:59 2016 ]=>  Bote [190385827] added SuperGroup
+ 
+[ Fri Jun 10 15:17:14 2016 ]=>  Bote[190385827] set [184923221] as owner by username
+ 
+[ Fri Jun 10 15:17:18 2016 ]=>  Bote [190385827] promoted @Alshmary999
+ 
+[ Fri Jun 10 15:17:42 2016 ]=>  Bote [190385827] promoted @Abas_0770
+ 
+[ Fri Jun 10 15:17:51 2016 ]=>  Bote [190385827] promoted @alal99
+ 
+[ Fri Jun 10 16:34:02 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] set SuperGroup to: mute Photo
+ 
+[ Fri Jun 10 16:35:33 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] locked sticker posting
+ 
+[ Fri Jun 10 16:35:46 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] set SuperGroup to: mute Gifs
+ 
+[ Fri Jun 10 16:36:42 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] locked member 
+ 
+[ Fri Jun 10 16:38:34 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] locked link posting 
+ 
+[ Fri Jun 10 16:39:01 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] locked sticker posting
+ 
+[ Fri Jun 10 18:02:41 2016 ]=>  Bote [190385827] locked sticker posting
+ 
+[ Fri Jun 10 18:07:59 2016 ]=>  (ٱلَمِے😒ـلَك) [122122590] unlocked sticker posting
+ 
+[ Fri Jun 10 18:20:34 2016 ]=>  (ٱلَمِے😒ـلَك) [122122590] set SuperGroup to: mute Photo
+ 
+[ Fri Jun 10 18:20:42 2016 ]=>  (ٱلَمِے😒ـلَك) [122122590] set SuperGroup to: unmute Photo
+ 
+[ Fri Jun 10 21:49:15 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] locked sticker posting
+ 
+[ Fri Jun 10 21:50:40 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] set SuperGroup to: mute Text
+ 
+[ Fri Jun 10 21:52:22 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] set SuperGroup to: mute Text
+ 
+[ Fri Jun 10 23:03:59 2016 ]=>  (ٱلَمِے😒ـلَك) [122122590] set SuperGroup to: mute Photo
+ 
+[ Fri Jun 10 23:04:10 2016 ]=>  (ٱلَمِے😒ـلَك) [122122590] set SuperGroup to: unmute Photo
+ 
+[ Fri Jun 10 23:37:56 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] locked sticker posting
+ 
+[ Fri Jun 10 23:38:06 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] unlocked link posting
+ 
+[ Fri Jun 10 23:38:34 2016 ]=>  محضوررررر ﴿❈الـز؏ـ﴿😜﴾ـ✟ـيم❈﴾ [95289354] unlocked sticker posting
+ 

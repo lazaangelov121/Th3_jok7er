@@ -1,0 +1,12 @@
+[ Mon Jun  6 12:21:59 2016 ]=>  Bote [190385827] added SuperGroup
+ 
+[ Mon Jun  6 12:22:26 2016 ]=>  Bote[190385827] set [226321607] as owner by username
+ 
+[ Mon Jun  6 12:22:59 2016 ]=>  Bote [190385827] promoted @ahmed1211
+ 
+[ Mon Jun  6 12:23:18 2016 ]=>  Bote [190385827] set SuperGroup to: mute Photo
+ 
+[ Mon Jun  6 12:23:22 2016 ]=>  Bote [190385827] set SuperGroup to: mute Documents
+ 
+[ Mon Jun  6 12:23:27 2016 ]=>  Bote [190385827] set SuperGroup to: mute Gifs
+ 

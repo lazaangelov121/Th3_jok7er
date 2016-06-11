@@ -1,0 +1,1174 @@
+[ Tue Jun  7 07:18:02 2016 ]=>  Bote [190385827] added SuperGroup
+ 
+[ Tue Jun  7 07:18:48 2016 ]=>  Bote [190385827] obtained id for: [234580542]
+ 
+[ Tue Jun  7 07:19:00 2016 ]=>  Bote [190385827] set: [234580542] as owner by reply
+ 
+[ Tue Jun  7 07:19:12 2016 ]=>  Bote [190385827] deleted a message by reply
+ 
+[ Tue Jun  7 07:19:28 2016 ]=>  Bote [190385827] promoted mod: @@botsun[234580542] by reply
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [214786200] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [234580542] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [117787027] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [219868092] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [162713231] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [96247634] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [127371310] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [26625035] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [126576421] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [171215187] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [198966540] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [212150637] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [185300143] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [110971745] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [176364192] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [104963865] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [40726212] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [166522878] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [226363812] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [154964568] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [152002799] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [121461733] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [31688493] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [228277615] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [36826961] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [101652630] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [135220273] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [64102672] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [67868412] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [153513472] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [232907230] as owner by username
+ 
+[ Tue Jun  7 17:27:26 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [64069668] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [158385729] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [108023263] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [213581953] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [129450690] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [176872385] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [176547539] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [210698443] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [170951142] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [205519138] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [136248143] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [171254353] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [174800942] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [165722332] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [210579212] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [214817450] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [64259360] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [135017690] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [141412074] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [182251303] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [122793704] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [134060227] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [219153283] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [94033023] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [93648605] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [213001712] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [231745939] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [211860277] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [167846067] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [60162862] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [74329222] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [184274686] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [171212015] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [49312410] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [218661738] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [219204166] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [202839463] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [188176377] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190875893] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [236329188] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [116153974] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [152084170] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [169936335] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [126695108] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [106479177] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [181132897] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [191391457] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [189568794] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [224856284] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [176105143] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [132810295] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [183155735] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [209377079] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [175628080] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [145622740] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [42079612] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [171403456] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [90983432] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [143597048] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [74423103] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [159610409] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [135554463] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [217484268] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [200380321] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [100724122] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [62305762] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [43587787] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [190385827] as owner by username
+ 
+[ Tue Jun  7 17:27:27 2016 ]=>  Bote[190385827] set [205034310] as owner by username
+ 
+[ Wed Jun  8 22:02:29 2016 ]=>  Bote [190385827] deleted a message by reply
+ 
+[ Wed Jun  8 22:02:30 2016 ]=>  Bote [190385827] deleted a message by reply
+ 
+[ Wed Jun  8 22:34:36 2016 ]=>  Bote [190385827] set SuperGroup to: mute Text
+ 
+[ Thu Jun  9 22:57:07 2016 ]=>  Bote [190385827] set SuperGroup to: mute Text
+ 
+[ Fri Jun 10 00:13:27 2016 ]=>  Bote [190385827] set SuperGroup to: mute Text
+ 
+[ Fri Jun 10 00:13:54 2016 ]=>  Bote [190385827] set SuperGroup to: mute Text
+ 
+[ Fri Jun 10 00:18:13 2016 ]=>  Bote [190385827] locked link posting 
+ 
+[ Fri Jun 10 21:37:02 2016 ]=>  ↜❥ ⁽﴾յgɹ̤ɹċ﴿̣⁾↜ [216720747] renamed SuperGroup to: صور حسابك ودزه
+ 

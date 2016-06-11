@@ -1,0 +1,14 @@
+[ Mon Jun  6 21:11:44 2016 ]=>  Bote [190385827] added SuperGroup
+ 
+[ Mon Jun  6 21:12:11 2016 ]=>  Bote [190385827] set: [186504119] as owner by reply
+ 
+[ Mon Jun  6 21:22:13 2016 ]=>  Bote [190385827] attempted to create a new SuperGroup link
+ 
+[ Mon Jun  6 21:33:26 2016 ]=>  شـ♕ـﮱﮩـاډﯠ_↜_||_Ś_Њ_Δ_Đ_Ồ [186504119] deleted user user#id190385827
+ 
+[ Mon Jun  6 21:33:30 2016 ]=>  شـ♕ـﮱﮩـاډﯠ_↜_||_Ś_Њ_Δ_Đ_Ồ [186504119] deleted user user#id219215292
+ 
+[ Mon Jun  6 21:33:35 2016 ]=>  شـ♕ـﮱﮩـاډﯠ_↜_||_Ś_Њ_Δ_Đ_Ồ [186504119] deleted user user#id222658268
+ 
+[ Mon Jun  6 21:33:37 2016 ]=>  شـ♕ـﮱﮩـاډﯠ_↜_||_Ś_Њ_Δ_Đ_Ồ [186504119] deleted user user#id234580542
+ 

@@ -1,0 +1,12 @@
+[ Fri Jun 10 15:09:54 2016 ]=>  Bote [190385827] added SuperGroup
+ 
+[ Fri Jun 10 15:10:35 2016 ]=>  Bote [190385827] requested SuperGroup ID
+ 
+[ Fri Jun 10 15:10:43 2016 ]=>  Bote [190385827] set SuperGroup to: mute Photo
+ 
+[ Fri Jun 10 15:10:49 2016 ]=>  Bote [190385827] set SuperGroup to: mute Documents
+ 
+[ Fri Jun 10 15:10:53 2016 ]=>  Bote [190385827] locked sticker posting
+ 
+[ Fri Jun 10 15:11:02 2016 ]=>  Bote [190385827] locked member 
+ 

@@ -1,0 +1,175 @@
+[ Sat Jun  4 12:11:53 2016 ]=>  Bote [190385827] added SuperGroup
+ 
+[ Sat Jun  4 12:14:33 2016 ]=>  Bote [190385827] unbaned user 190385827
+ 
+[ Mon Jun  6 17:13:07 2016 ]=>  Bote [190385827] attempted to create a new SuperGroup link
+ 
+[ Mon Jun  6 17:13:10 2016 ]=>  Bote [190385827] requested group link [https://telegram.me/joinchat/DftqPj7N6baqS55wZb6b2A]
+ 
+[ Mon Jun  6 17:13:35 2016 ]=>  Bote [190385827] deleted a message by reply
+ 
+[ Mon Jun  6 17:21:14 2016 ]=>  😞مصطفى الاسمر😞 Admin [222658268] joined the SuperGroup via link
+ 
+[ Mon Jun  6 19:51:05 2016 ]=>  ٍّ₰آُلَـﮩණ๋͜͡‏ـمِـلَـൂـگ.شﮯـৡ ﮩ๋͜͡‏ـخصيهٍّ.cv₰#1 [200345167] joined and Service Msg deleted (#spam name)
+ 
+[ Mon Jun  6 20:46:51 2016 ]=>  —¤÷(`[¤*_🔥⚔_§_Ц_И_ß_Ø_Ŧ_⚔🔥_*¤]´)÷¤— [0] deleted user user#id200345167
+ 
+[ Mon Jun  6 20:48:34 2016 ]=>  Bote [190385827] attempted to create a new SuperGroup link
+ 
+[ Mon Jun  6 20:50:18 2016 ]=>  Bote [190385827] locked member 
+ 
+[ Mon Jun  6 20:50:34 2016 ]=>  Bote [190385827] promoted mod: @@fbi_bot_iq[171843193] by reply
+ 
+[ Mon Jun  6 20:51:17 2016 ]=>  😞مصطفى الاسمر😞 [222658268] set: [190385827] as owner by reply
+ 
+[ Mon Jun  6 20:51:49 2016 ]=>  😞مصطفى الاسمر😞 [222658268] promoted mod: @Bote [190385827] by reply
+ 
+[ Mon Jun  6 22:58:27 2016 ]=>  F.B.I_BOT [171843193] deleted user user#id171843193
+ 
+[ Tue Jun  7 06:42:21 2016 ]=>  . User [237721213] added [237721213]: added user kicked  (#lockmember)
+ 
+[ Tue Jun  7 06:42:21 2016 ]=>  —¤÷(`[¤*_🔥⚔_§_Ц_И_ß_Ø_Ŧ_⚔🔥_*¤]´)÷¤— [0] deleted user user#id237721213
+ 
+[ Tue Jun  7 06:42:39 2016 ]=>  Bote [190385827] unlocked member 
+ 
+[ Tue Jun  7 06:43:47 2016 ]=>  . [237721213] left via kickme
+ 
+[ Tue Jun  7 06:43:47 2016 ]=>  —¤÷(`[¤*_🔥⚔_§_Ц_И_ß_Ø_Ŧ_⚔🔥_*¤]´)÷¤— [0] deleted user user#id237721213
+ 
+[ Tue Jun  7 06:44:19 2016 ]=>  —¤÷(`[¤*_🔥⚔_§_Ц_И_ß_Ø_Ŧ_⚔🔥_*¤]´)÷¤— [0] deleted user user#id216316875
+ 
+[ Tue Jun  7 12:36:17 2016 ]=>  Bote [190385827] requested SuperGroup ID
+ 
+[ Tue Jun  7 12:36:31 2016 ]=>  Bote [190385827] requested SuperGroup info
+ 
+[ Tue Jun  7 12:36:55 2016 ]=>  Bote[190385827] set [237721213] as owner by username
+ 
+[ Tue Jun  7 12:37:55 2016 ]=>  Bote [190385827] promoted user#id190385827
+ 
+[ Tue Jun  7 21:40:41 2016 ]=>  Bote [190385827] requested group link [https://telegram.me/joinchat/DftqPj7N6bYu8ItARTmh7A]
+ 
+[ Tue Jun  7 22:03:16 2016 ]=>  Bote [190385827] renamed SuperGroup to:  🇶 🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶
+ 
+[ Tue Jun  7 22:03:42 2016 ]=>  Bote [190385827] renamed SuperGroup to: 🇶 🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶
+ 
+[ Tue Jun  7 22:04:32 2016 ]=>  😞مصطفى الاسمر😞 [222658268] renamed SuperGroup to: 🇶 🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶
+ 
+[ Tue Jun  7 22:05:36 2016 ]=>  Bote [190385827] renamed SuperGroup to: 🇶?🇶?🇶???🇶???🇶
+ 
+[ Tue Jun  7 22:05:42 2016 ]=>  Bote [190385827] renamed SuperGroup to: ديييي
+ 
+[ Tue Jun  7 22:05:50 2016 ]=>  😞مصطفى الاسمر😞 [222658268] renamed SuperGroup to: دييييييييي
+ 
+[ Tue Jun  7 22:05:57 2016 ]=>  Bote [190385827] renamed SuperGroup to: كسي
+ 
+[ Tue Jun  7 22:09:37 2016 ]=>  Bote [190385827] renamed SuperGroup to:   🇶 🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶
+ 
+[ Tue Jun  7 22:09:49 2016 ]=>  Bote [190385827] renamed SuperGroup to: دي
+ 
+[ Tue Jun  7 22:09:54 2016 ]=>  Bote [190385827] started setting new SuperGroup photo
+ 
+[ Tue Jun  7 22:10:20 2016 ]=>  😞مصطفى الاسمر😞 [222658268] renamed SuperGroup to: ببالبب
+ 
+[ Tue Jun  7 22:10:33 2016 ]=>  Bote [190385827] set new SuperGroup photo
+ 
+[ Tue Jun  7 22:10:46 2016 ]=>  😞مصطفى الاسمر😞 [222658268] started setting new SuperGroup photo
+ 
+[ Tue Jun  7 22:11:24 2016 ]=>  Bote [190385827] renamed SuperGroup to:   🇶 🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶
+ 
+[ Tue Jun  7 22:11:44 2016 ]=>  Bote [190385827] renamed SuperGroup to: دييي
+ 
+[ Tue Jun  7 22:12:31 2016 ]=>  😞مصطفى الاسمر😞 [222658268] renamed SuperGroup to: دددددد
+ 
+[ Tue Jun  7 22:15:46 2016 ]=>  Bote [190385827] set new SuperGroup photo
+ 
+[ Tue Jun  7 22:23:58 2016 ]=>  Bote [190385827] requested SuperGroup bots list
+ 
+[ Tue Jun  7 22:24:45 2016 ]=>  Bote [190385827] renamed SuperGroup to: دييي
+ 
+[ Tue Jun  7 22:24:46 2016 ]=>  بوت Fpi [171843193] renamed SuperGroup to: دييي
+ 
+[ Tue Jun  7 22:28:28 2016 ]=>  😞مصطفى الاسمر😞 [222658268] promoted mod: @@mus_tafa1997[222658268] by reply
+ 
+[ Tue Jun  7 22:28:46 2016 ]=>  😞مصطفى الاسمر😞 [222658268] set: [222658268] as owner by reply
+ 
+[ Tue Jun  7 22:34:33 2016 ]=>  😞مصطفى الاسمر😞 [222658268] set: [190385827] as owner by reply
+ 
+[ Tue Jun  7 22:45:32 2016 ]=>  Bote [190385827] renamed SuperGroup to: 🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶
+ 
+[ Tue Jun  7 22:45:32 2016 ]=>  —¤÷(`[¤* 🔥⚔ § Ц И ß Ø Ŧ ⚔🔥 *¤]´)÷¤— [0] renamed SuperGroup to: 🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶 🇮🇶🇮🇶🇮🇶
+ 
+[ Wed Jun  8 12:14:29 2016 ]=>  بوت_Fpi [171843193] deleted user user#id171843193
+ 
+[ Wed Jun  8 12:49:03 2016 ]=>  Bote [190385827] added SuperGroup
+ 
+[ Wed Jun  8 20:07:41 2016 ]=>  Bote [190385827] requested SuperGroup ID
+ 
+[ Wed Jun  8 20:09:31 2016 ]=>  😞مصطفى الاسمر😞 [222658268] promoted mod: @Bote [190385827] by reply
+ 
+[ Wed Jun  8 20:09:55 2016 ]=>  😞مصطفى الاسمر😞 [222658268] set: [190385827] as owner by reply
+ 
+[ Wed Jun  8 20:10:09 2016 ]=>  😞مصطفى الاسمر😞 [222658268] set: [222658268] as owner by reply
+ 
+[ Wed Jun  8 20:11:42 2016 ]=>  Bote [190385827] requested SuperGroup ID
+ 
+[ Wed Jun  8 20:14:18 2016 ]=>  —¤÷(`[¤* 🔥⚔ ¶ ™ Ð Є V  ʝ Ø Қ Є R ™ ¶ ⚔🔥 *¤]´)÷¤— [234580542] requested SuperGroup ID
+ 
+[ Wed Jun  8 20:34:58 2016 ]=>  بوت_Fpi [171843193] deleted user user#id171843193
+ 
+[ Wed Jun  8 20:41:08 2016 ]=>  Bote [190385827] locked member 
+ 
+[ Wed Jun  8 21:07:21 2016 ]=>  Bote [190385827] requested SuperGroup ID
+ 
+[ Wed Jun  8 21:38:28 2016 ]=>  Bote [190385827] attempted to create a new SuperGroup link
+ 
+[ Thu Jun  9 01:17:12 2016 ]=>  —¤÷(`[¤*_🔥⚔_§_Ц_И_ß_Ø_Ŧ_⚔🔥_*¤]´)÷¤— [0] deleted user user#id56572777
+ 
+[ Thu Jun  9 10:01:39 2016 ]=>  Bote [190385827] has changed group rules to [‌‌‌ضع قوانين —¤÷(`[¤* 🔥⚔دعم ŞŪהɓØøŦ ⚔ڈعم🔥 *¤]´)÷¤—
+🌺🌺🌺
+
+📌شرط الحصول ع المجموعات المجانيه : 
+
+1-لديك 40 عضو او اكثر.
+2-في حالة غياب حضور الاعضاء، عدم الفعاليه و ترك المجموعه يتم استرجاع المجموعه حيث يقوم البوت بطرد الاعضاء.
+3- يمنع نشر الاباحه او تبادل القنوات او البوتات الاباحيه.
+
+🍂لاتوجد اي شروط ع المجموعات المدفوعه 
+
+📌المجموعات المدفوعه :
+
+🍃المجموعه الخارقه ( سوبر_5000 عضو )
+
+@devss_bot]
+ 
+[ Thu Jun  9 11:14:40 2016 ]=>  Bote [190385827] renamed SuperGroup to: #DEV
+ 
+[ Thu Jun  9 11:14:41 2016 ]=>  —¤÷(`[¤* 🔥⚔ § Ц И ß Ø Ŧ ⚔🔥 *¤]´)÷¤— [0] renamed SuperGroup to: #DEV
+ 
+[ Thu Jun  9 11:15:40 2016 ]=>  Bote [190385827] set SuperGroup to: mute Photo
+ 
+[ Thu Jun  9 11:16:05 2016 ]=>  Bote [190385827] attempted to create a new SuperGroup link
+ 
+[ Thu Jun  9 11:16:32 2016 ]=>  —¤÷(`[¤* 🔥⚔ ¶ ™ Ð Є V  ʝ Ø Қ Є R ™ ¶ ⚔🔥 *¤]´)÷¤— [234580542] attempted to create a new SuperGroup link
+ 
+[ Thu Jun  9 11:19:05 2016 ]=>  Bote [190385827] locked disabled strict settings
+ 
+[ Thu Jun  9 11:23:49 2016 ]=>  Bote [190385827] locked link posting 
+ 
+[ Thu Jun  9 11:23:59 2016 ]=>  Bote [190385827] set SuperGroup to: mute Text
+ 
+[ Thu Jun  9 11:24:07 2016 ]=>  Bote [190385827] set SuperGroup to: mute Video
+ 
+[ Thu Jun  9 11:24:23 2016 ]=>  Bote [190385827] set SuperGroup to: mute Documents
+ 
+[ Thu Jun  9 12:04:03 2016 ]=>  Bote [190385827] set SuperGroup to: mute Text
+ 
+[ Thu Jun  9 12:13:58 2016 ]=>  Bote [190385827] set SuperGroup to: mute Text
+ 
+[ Fri Jun 10 16:35:53 2016 ]=>  Bote [190385827] renamed SuperGroup to: صيانه
+ 
+[ Fri Jun 10 16:35:54 2016 ]=>  —¤÷(`[¤*🔥    Ĉ Ø Μ ק Ц R \ ßØŦ    🔥 *¤]´)÷¤— [0] renamed SuperGroup to: صيانه
+ 
+[ Fri Jun 10 16:46:52 2016 ]=>  كرعاوي [123705997] set SuperGroup to: mute Photo
+ 
+[ Fri Jun 10 20:47:56 2016 ]=>  Bote [190385827] requested SuperGroup ID
+ 

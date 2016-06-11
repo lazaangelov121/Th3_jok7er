@@ -1,0 +1,18 @@
+[ Mon Jun  6 12:36:48 2016 ]=>  Bote [190385827] added SuperGroup
+ 
+[ Mon Jun  6 12:37:59 2016 ]=>  Bote [190385827] set: [234580542] as owner by reply
+ 
+[ Mon Jun  6 12:38:36 2016 ]=>  Bote [190385827] set SuperGroup to: mute Photo
+ 
+[ Mon Jun  6 12:38:40 2016 ]=>  Bote [190385827] set SuperGroup to: mute Documents
+ 
+[ Mon Jun  6 12:39:20 2016 ]=>  Bote [190385827] locked sticker posting
+ 
+[ Mon Jun  6 12:39:25 2016 ]=>  Bote [190385827] locked flood 
+ 
+[ Mon Jun  6 12:47:15 2016 ]=>  Bote [190385827] set: [234580542] as owner by reply
+ 
+[ Mon Jun  6 12:47:33 2016 ]=>  Bote [190385827] set: [234580542] as owner by reply
+ 
+[ Mon Jun  6 12:47:42 2016 ]=>  Bote [190385827] set: [234580542] as admin by reply
+ 
