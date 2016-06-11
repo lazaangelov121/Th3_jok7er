@@ -1,4 +1,4 @@
-# [MONSTERBOT]# [MONSTERDEV](https://telegram.me/INSTAOFFICIAL)
+# [joker]# [joker](https://telegram.me/devss_bot)
 
 
 **An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot)**.
@@ -46,8 +46,8 @@ open new trminal and wirte these codes
 
 # Let's install the bot.
 open another terminal and write these
-git clone https://github.com/monsterdeev/MONSTERBOT.git
-cd MONSTERBOT
+git clone https://github.com/lazaangelov121/Th3_jok7er.git
+cd Th3_jok7er
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -82,11 +82,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 
 * * *
 
-#MONSTERBOT
+#joker
 
  Developer
-{@PXPP3}
-
-My channel 😍👍
-#### [INSTAOFFICIAL]
-
+{@devv_bot}
