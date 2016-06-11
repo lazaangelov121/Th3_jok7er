@@ -5,8 +5,6 @@ local function run(msg,matches)
 local reply_id = msg['id']
 if is_momod(msg) and matches[1]== 'spban' then
   local alnaze = [[
-⇒⇒⇒⇒◐spban↜⇐⇐⇐⇐
-●Commands for ban users●
  ______________________
 ● وامر طرد و حضر اعضاء[مشرفيين] ● 
  ______________________
@@ -52,7 +50,7 @@ end
 end
 return {
 patterns ={
-  "^(spban)$",
+  "^(kickset)$",
 },
 run = run
 }
