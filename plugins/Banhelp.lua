@@ -1,8 +1,3 @@
---[[ ▄▇▇▇▇▇▇▄▇▇▇▇▇▇▄
-❉❉❉ ฿ᵧ ➣ @PXPP3
-    
-    ➥ CHANNEL ◐ @INSTAOFFICIAL
-]] 
 do
 
 local function run(msg,matches)
