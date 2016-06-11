@@ -3,7 +3,7 @@ do
 local function run(msg,matches)
 
 local reply_id = msg['id']
-if is_momod(msg) and matches[1]== 'spban' then
+if is_momod(msg) and matches[1]== 'kickset' then
   local alnaze = [[
  ______________________
 ● وامر طرد و حضر اعضاء[مشرفيين] ● 
