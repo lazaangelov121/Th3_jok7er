@@ -1,26 +1,45 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Th3_BOOS 
 
+طريقه تنصيب البوت
 
-Hi there! Welcome to Cloud9 IDE!
+افتـح ترمنـــأل وخلي 
 
-To get you started, we included a small hello world application.
+sudo apt-get update 
 
-1) Open the hello-world.html file
+بعدها خلي هاي
 
-2) Click on the Preview button to open a live preview pane
+redis-server
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+عوفه مفتوح
 
-Happy coding!
-The Cloud9 IDE team
+افتح ترمنال ثاني وخلي
+************************************************************
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes
+************************************************************
+وراها حط
+**************
+git clone https://github.com/ahm3d97/Th3_BOOS.git
+*****************************************************
+وراها حط
+**************************
+cd Th3_BOOS
+**************************
+وراها خلي
+**************************
+chmod +x launch.sh
+**************************
+وراها
+**************************
+./launch.sh install
+**************************
+وبعدها
+**************************
+./launch.sh 
+**************************
+يطلب رقم خلي رقم للبوت ومبروك عليك البوت 
+ان شاء الله ما قصرت وياكم بشي
+تنصيب موفق للجميع
+تحياتي اخوكم #الزعيم
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+المطور#الزعيم
+@Th3_BOOS
